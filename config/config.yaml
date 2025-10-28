@@ -1,0 +1,9 @@
+database:
+  db_host: "localhost"
+  db_user: "postgres"
+  db_password: "TC"
+  db_name: "tglmp"
+  db_port: 5432
+  db_sslmode: "disable"
+tgbot:
+  token: 8099500214:AAE2zUkg2sJ34Yr7SSNBBhVN4XqLVSqAaFM
